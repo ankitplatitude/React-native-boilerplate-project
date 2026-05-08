@@ -1,0 +1,19 @@
+{
+  "name": "@ankitmistry/rn-boilerplate-template",
+  "version": "0.1.0",
+  "description": "Welocome to React Native 0.84.1 Boilerplate Template!",
+  "main": "template.config.js",
+  "keywords": [
+    "react-native",
+    "template",
+    "boilerplate",
+    "redux",
+    "navigation"
+  ],
+  "author": "Ankit",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
